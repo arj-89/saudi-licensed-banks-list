@@ -16,8 +16,8 @@ The dataset includes the following information for each bank:
 - SWIFT Code
 - Branch City
 - Bank URL
-- Bank Category
-- Banking Activity Type
+- Bank Category (in Arabic and English)
+- Banking Activity Type (in Arabic and English)
 - Unified Number
 - Commercial Register Number
 
