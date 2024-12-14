@@ -24,9 +24,9 @@ The dataset includes the following information for each bank:
 ## Data Sources
 
 This dataset is compiled from the following authoritative sources:
-- Saudi Central Bank (SAMA) - Licensed Entities
-- SWIFT Codes Directory
-- OpenSanctions Database
+- Saudi Central Bank (SAMA) - Licensed Entities - https://www.sama.gov.sa
+- SWIFT Codes Directory - https://bank.codes
+- OpenSanctions Database - https://www.opensanctions.org
 
 Last Updated: December 14, 2024
 
@@ -49,8 +49,10 @@ Please ensure all updates include reliable source references.
 
 ## License
 
-This work is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
-You are free to use this data for any purpose, provided you give appropriate credit to the original author.
+This dataset is licensed under the Apache License, Version 2.0. You may obtain a copy of the License at:
+http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software and data distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
 
 ## Author
 ARJ
